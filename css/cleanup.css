@@ -7,7 +7,7 @@ div#wall #tag-2 {
   display: none;
 }
 
-#wall .slick-wicked:nth-child(3) {
+#wall .slick:nth-child(3) {
   display: none;
 }
 
