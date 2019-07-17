@@ -7,7 +7,7 @@
   display: none;
 }
 
-div #wall div[id="tag-3"] {
+div[class="wicked"] {
   display: none;
 }
 
