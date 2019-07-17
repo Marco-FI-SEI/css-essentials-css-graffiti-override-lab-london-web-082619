@@ -15,7 +15,7 @@
   display: none;
 }
 
-#wall .parent #tag-5 {
+div#wall.parent:nth-child(2) #tag-5.slick{
   display: none;
 }
 
